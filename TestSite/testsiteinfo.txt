@@ -1,8 +1,0 @@
-Theme Color: #B85DD4
-Makeup image address: https://live.staticflickr.com/65535/51014489331_190499b95b_b.jpg
-Makeup face image address: https://live.staticflickr.com/3808/32955327115_cbf628b3ef_b.jpg
-
-Embed a font: <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
-
-CSS family: font-family: 'Staatliches', cursive;
